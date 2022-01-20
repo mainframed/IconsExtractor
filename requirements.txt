@@ -1,0 +1,5 @@
+chartio==6.0.1
+icoextract==0.1.2
+pefile==2021.9.3
+Pillow==9.0.0
+PyGObject==3.40.1
