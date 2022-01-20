@@ -171,7 +171,7 @@ class IconsExtractor:
                 name = f"{icon['filename'][:l]} ({icon['ID']})"
             else:
                 index = icon['index']
-                name = f"{Path(icon['original_filename']).name} ({icon['index']})"
+                name = f"{Path(icon['original_filename']).name} ({icon['index']},{icon['ID']})"
             
             self.totalicons += 1
             self.totalsize += len(icon['ICON'])
