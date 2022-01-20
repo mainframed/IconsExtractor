@@ -54,7 +54,7 @@ You can copy an icon to the clipboard in one of two ways:
 * Selecting an icon and pressing <kbd>Ctrl</kbd> + <kbd>c</kbd>
 * Selecting an icon, right clicking and selecting "*Copy*"
 
-:warning: When selecting multiple icons, one the first icon will be placed on to your clip board.
+:warning: When selecting multiple icons, only the first icon will be placed on to your clip board.
 
 ## Command line arguments
 
